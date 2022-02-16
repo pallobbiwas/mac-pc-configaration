@@ -1,0 +1,23 @@
+.btnn{
+    padding: 10px;
+    border: none;
+    outline: none;
+    background: none;
+    margin: 15px 10px;
+}
+.btnn:hover{
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10 15px;
+}
+.round{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20px;
+    padding: 3px;
+}
+.new{
+    color: rgb(10, 102, 102);
+    padding: 4px 0;
+    border-radius: 5px;
+}
